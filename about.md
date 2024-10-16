@@ -1,6 +1,6 @@
 ---
 layout: article
-comments: false
+comment: false
 titles:
   # @start locale config
   en      : &EN       About
