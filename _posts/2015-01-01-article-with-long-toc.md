@@ -2,6 +2,8 @@
 title: Test - Article with Long TOC
 key: 20150101
 tags: Test
+comments:
+  provider: custom
 ---
 
 Article with long TOC.
