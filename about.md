@@ -7,7 +7,7 @@ titles:
 key: page-about
 ---
 
-![Banner](https://raw.githubusercontent.com//nabla0001/nabla0001.github.io/master/assets/images/banners/HCF_Stills_05.jpg)
+![Banner](/docs/assets/images/HCF_Stills_04.jpg)
 
 Hi there - welcome to my blog!
 
