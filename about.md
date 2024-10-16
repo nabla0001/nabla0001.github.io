@@ -7,7 +7,7 @@ titles:
 key: page-about
 ---
 
-![Banner](/docs/assets/images/HCF_Stills_04.jpg)
+![Banner](/assets/images/HCF_Stills_04.jpg)
 
 Hi there - welcome to my blog!
 
